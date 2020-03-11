@@ -1,2 +1,2 @@
 # hoandreas
-WEEKLY PROJECT - Website yang dihosting dengan Github Pages
+WEEKLY PROJECT - Website hosted by Github Pages
